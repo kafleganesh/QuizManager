@@ -1,0 +1,7 @@
+@CHARSET "ISO-8859-1";
+h1{
+	text-align: center;
+	 background-color: #ccc;
+    margin: 20px;
+    padding: 40px;
+}
